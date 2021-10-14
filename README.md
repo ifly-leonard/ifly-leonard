@@ -1,5 +1,8 @@
 <h1 align="center">Vanakkam Thala! (Hello) 👋, this is Leonard!</h1>
-<h3 align="center">Chennai, India - Present & Represent</h3>
+<h3 align="center">Chennai, India - Present & Represent
+  <br><br>
+ <img  width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=ifly-leonard&count_private=true&theme=blueberry&show_icons=true&locale=en" alt="ifly-leonard" />
+</h3>
 
 - 🔭 I’m currently working on **open source projects for humanity**
 - 🌱 I’m currently learning **AlpineJS**
@@ -14,6 +17,4 @@
 <a href="https://instagram.com/ifly-leonard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-<p align="center">&nbsp;<img  width="600" height="210" src="https://github-readme-stats.vercel.app/api?username=ifly-leonard&count_private=true&theme=blueberry&show_icons=true&locale=en" alt="ifly-leonard" /></p>
-<p align="center">&nbsp;<img  width="600" height="210" src="https://github-readme-stats.vercel.app/api/pin/?username=icrewsystemsofficial&repo=covid19resources" alt="ifly-leonard" /></p>
 
