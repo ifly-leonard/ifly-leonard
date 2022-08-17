@@ -1,7 +1,8 @@
 <h1 align="center">Vanakkam Thala! (Hello) 👋, this is Leonard!</h1>
 <h3 align="center">Chennai, India - Present & Represent
- 
 </h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - 🔭 I’m currently working on **open source projects for humanity**
 - 🌱 I’m currently learning **AlpineJS**
@@ -17,10 +18,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ifly-leonard&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ifly-leonard&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### Ufh, you must have been bored to read all of that stuff, so here's your meme, laugh it away! 😂
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
